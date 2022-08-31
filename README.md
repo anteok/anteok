@@ -4,7 +4,7 @@ Development is a significant part of my life, I enjoy writing code, learning abo
 I have strong coding skills, understanding of Python, Linux. \
 I've worked on different projects:
 * scripting and automation in networking
-* distributed realtime systems
+* distributed realtime videostream processing systems
 * classic backends from scratch in different business areas, such as ad market, retail and financial market
 
 I’m currently learning Rust, it looks amazing! \
