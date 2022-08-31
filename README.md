@@ -2,7 +2,7 @@ Hi, I’m @anteok - my name is Vasilii Kuimov, I live in Saint-Petersburg, Russi
 
 Development is a significant part of my life, I enjoy writing code, learning about architectures, using Python everywhere. \
 I have strong coding skills, understanding of Python, Linux. \
-I've worked on different projects: \
+I've worked on different projects:
 * scripting and automation in networking
 * distributed realtime systems
 * classic backends from scratch in different business areas, such as ad market, retail and financial market
