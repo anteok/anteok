@@ -7,7 +7,7 @@ I've worked on different projects:
 * distributed realtime videostream processing systems
 * classic backends from scratch in different business areas, such as ad market, retail and financial market
 
-I’m currently learning Rust, it looks amazing! \
+I'm in love with clean architectures. \
 I’m looking to collaborate on system engineering projects because of my love to Linux. \
 I'm available at vasilykuimov@yandex.ru
 
